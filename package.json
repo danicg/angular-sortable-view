@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kamilkp/angular-sortable-view.git"
+    "url": "https://github.com/danicg/angular-sortable-view.git"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
